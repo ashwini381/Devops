@@ -1,0 +1,2 @@
+Devops is a methodology
+Devops has many automation tool
