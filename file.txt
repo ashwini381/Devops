@@ -2,4 +2,5 @@ Devops is a methodology
 Devops has many automation tool
 Devops had CI/CD/ct
 Devops is same Agile
-
+Devops had CI/CD
+Devops is same Agile
